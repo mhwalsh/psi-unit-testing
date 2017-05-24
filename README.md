@@ -4,6 +4,25 @@ Chai API/Docs: [http://chaijs.com/api/](http://chaijs.com/api/)
 
 Mocha: [https://mochajs.org/#table-of-contents](https://mochajs.org/#table-of-contents)
 
+## Run Tests
+
+```
+$: mocha test/*.test.js
+```
+or in `package.json` include a npm test script:
+
+```
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+```
+
+and then run:
+
+```
+$: npm test
+```
+
 ## Additional Resources
 ### Server
 - [https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
