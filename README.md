@@ -4,6 +4,8 @@ Chai API/Docs: [http://chaijs.com/api/](http://chaijs.com/api/)
 
 Mocha: [https://mochajs.org/#table-of-contents](https://mochajs.org/#table-of-contents)
 
+Request: [https://github.com/request/request](https://github.com/request/request)
+
 ## Run Tests
 
 ```
